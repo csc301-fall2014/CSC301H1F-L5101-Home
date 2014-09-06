@@ -5,7 +5,10 @@ This page will contain general information and important announcements, please m
 
  * Instructor: Joey Freund, joey [at] cs.toronto.edu
  * TA: TBD
- * Lectures: Monday 7-9, Room TBD
- * Tutorials: Monday 6-7, Room TBD (no tutorial on the first week)
+ * Lectures: Monday 7-9, GB120
+   * No lectures on Oct 13 and Nov 17 due to Thanksgiving Day and November Break.
+   * There will be a makeup lecture on Wednesday Nov 26.
+ * Tutorials: Monday 6-7
+   * Three tutorial sections at GB120, AP120, and WB144.
 
 
