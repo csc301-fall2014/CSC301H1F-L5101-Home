@@ -3,11 +3,11 @@
 This repo serves as the homepage for CSC301H1F, section L5101 (i.e. The Monday evening section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
- * Instructor: Joey Freund, joey [at] cs.toronto.edu
+ * Instructor: Joey Freund, joey@cs.toronto.edu
  * TA's: 
-   * Sukwon Oh, sukwon0709 [at] gmail.com
-   * Jeff Wintersinger, jeff.wintersinger [at] mail.utoronto.ca
-   * Anson Liang, ansonlia [at] cs.toronto.edu
+   * Sukwon Oh, sukwon0709@gmail.com
+   * Jeff Wintersinger, jeff.wintersinger@mail.utoronto.ca
+   * Anson Liang, ansonlia@cs.toronto.edu
  * Lectures: 
    * Monday 7-9, GB120
    * No lectures on Oct 13 and Nov 17 due to Thanksgiving Day and November Break.
