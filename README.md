@@ -4,11 +4,14 @@ This repo serves as the homepage for CSC301H1F, section L5101 (i.e. The Monday e
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
  * Instructor: Joey Freund, joey [at] cs.toronto.edu
- * TA: TBD
+ * TA's: 
+   * Sukwon Oh, sukwon0709 [at] gmail.com
+   * Jeff Wintersinger, jeff.wintersinger [at] mail.utoronto.ca
+   * Anson Liang, ansonlia [at] cs.toronto.edu
  * Lectures: Monday 7-9, GB120
    * No lectures on Oct 13 and Nov 17 due to Thanksgiving Day and November Break.
    * There will be a makeup lecture on Wednesday Nov 26.
  * Tutorials: Monday 6-7
-   * Three tutorial sections at GB120, AP120, and WB144.
+   * Three tutorial sections at GB120 (Sukwon), AP120 (Jeff), and WB144 (Anson).
 
 
