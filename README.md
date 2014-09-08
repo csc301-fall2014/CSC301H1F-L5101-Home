@@ -18,6 +18,7 @@ This page will contain general information and important announcements, please m
    * Monday 6-7
    * Three tutorial sections at GB120 (Sukwon), AP120 (Jeff), and WB144 (Anson).
    * No tutorials on the first week
+ * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/)
  * [Official course info sheet](InfoSheet.pdf)
 
 
