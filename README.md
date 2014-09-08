@@ -37,3 +37,9 @@ Final Exam     | TBD         | 35%
 
 *Note:* You must get at least 40% on the final exam in order to pass the course.
 
+
+## Lecture Slides ##
+
+ * Week 1
+   * [Introduction](https://docs.google.com/presentation/d/1cjbyIFSosYkMDQu2r1KYPmVHv2qhu29BQCEKxJfKx3Y/edit?usp=sharing)
+   * [Version Control](https://docs.google.com/presentation/d/1TILN1mCvZSlhN_ZSDYvpyCLIB9exEj_8VNRlxaBo8Lk/edit?usp=sharing)
