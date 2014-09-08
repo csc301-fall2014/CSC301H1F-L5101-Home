@@ -9,14 +9,14 @@ This page will contain general information and important announcements, please m
  * TA's: 
    * Sukwon Oh, sukwon0709@gmail.com
    * Jeff Wintersinger, jeff.wintersinger@mail.utoronto.ca
-   * Anson Liang, ansonlia@cs.toronto.edu
+   * Kaiwen Zhang,	kzhang@cs.toronto.edu
  * Lectures: 
    * Monday 7-9, GB120
    * No lectures on Oct 13 and Nov 17 due to Thanksgiving Day and November Break.
    * There will be a makeup lecture on Wednesday Nov 26.
  * Tutorials: 
    * Monday 6-7
-   * Three tutorial sections at GB120 (Sukwon), AP120 (Jeff), and WB144 (Anson).
+   * Three tutorial sections at GB120 (Sukwon), AP120 (Jeff), and WB144 (Kaiwen).
    * No tutorials on the first week
  * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/)
  * [Official course info sheet](InfoSheet.pdf)
