@@ -43,3 +43,4 @@ Final Exam     | TBD         | 35%
  * Week 1
    * [Introduction](https://docs.google.com/presentation/d/1cjbyIFSosYkMDQu2r1KYPmVHv2qhu29BQCEKxJfKx3Y/edit?usp=sharing)
    * [Version Control](https://docs.google.com/presentation/d/1TILN1mCvZSlhN_ZSDYvpyCLIB9exEj_8VNRlxaBo8Lk/edit?usp=sharing)
+   * [Stack Exchange Architecture](https://www.youtube.com/watch?v=rkVvxgdY9F8) - An interesting video, providing insight into the software development process of Stack Exchange. Around 19:30 minutes into the video, Marco (the speaker) talks about their testing strategy, which I have mentioned in class.
