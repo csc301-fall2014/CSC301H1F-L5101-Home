@@ -1,6 +1,6 @@
 # CSC301 - Introduction To Software Engineering #
 
-This repo serves as the homepage for CSC301H1F, section L5101 (i.e. The Monday evening section).
+This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
 ## General Info ##
