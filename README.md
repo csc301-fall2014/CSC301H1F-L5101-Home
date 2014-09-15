@@ -54,3 +54,6 @@ Final Exam     | TBD         | 35%
    * [Introduction](https://docs.google.com/presentation/d/1cjbyIFSosYkMDQu2r1KYPmVHv2qhu29BQCEKxJfKx3Y/edit?usp=sharing)
    * [Version Control](https://docs.google.com/presentation/d/1TILN1mCvZSlhN_ZSDYvpyCLIB9exEj_8VNRlxaBo8Lk/edit?usp=sharing)
    * [Stack Exchange Architecture](https://www.youtube.com/watch?v=rkVvxgdY9F8) - An interesting video, providing insight into the software development process of Stack Exchange. Around 19:30 minutes into the video, Marco (the speaker) talks about their testing strategy, which I have mentioned in class.
+ * Week 2
+   * [Tutorial on Git & GitHub](https://github.com/csc301-fall2014/Tutorial1) 
+   * [Software Development Life Cycle](https://docs.google.com/presentation/d/1cSps1xrdWnRCSvuDq5_3CST5HEc0k_nz4NkSsszThTs/edit?usp=sharing)
