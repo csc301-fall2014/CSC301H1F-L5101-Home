@@ -1,14 +1,5 @@
 # CSC301 - Introduction To Software Engineering #
 
-----
-
-## Important Announcement - Tutorial Room ##
-
-The tutorial on Monday, Sep 15, will be held at GB120 (same room as the lecture).
-That is, all students, regardless of which tutorial section you are registered for, should attend the GB120 section.
-In this tutorial, we will dive a little deeper into Git.
-
-----
 
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
