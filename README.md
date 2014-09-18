@@ -4,6 +4,16 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+-----
+
+# IMPORTANT ANNOUNCEMENTS
+
+1. Don't forget to register for a team for exercise 1 by 5 p.m. today (Thursday). If you don't register for a team, you will lose 25% of the mark for this exercise.
+2. __Monday tutorial__ - All tutorial sections should come to GB120 (the lecture room).    
+  Your TA's will introduce/demo their work/research, and run short Q&A sessions.
+
+-----
+
 ## General Info ##
 
  * Instructor: Joey Freund, joey@cs.toronto.edu
