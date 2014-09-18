@@ -8,4 +8,4 @@
  * The teams for this exercise, and the teams for the project are different (think of this exercise as a "test run").
 
 
-That's it for now, on Wednesday evening we will create your team repositories that you will use for this exercise.
+That's it for now, on Thursday evening we will create your team repositories that you will use for this exercise.
