@@ -9,8 +9,9 @@ This page will contain general information and important announcements, please m
 # IMPORTANT ANNOUNCEMENTS
 
 1. Don't forget to register for a team for exercise 1 by 5 p.m. today (Thursday). If you don't register for a team, you will lose 25% of the mark for this exercise.
-2. __Monday tutorial__ - All tutorial sections should come to GB120 (the lecture room).    
-  Your TA's will introduce/demo their work/research, and run short Q&A sessions.
+2. __Tutorial, Monday, Sept 22__ 
+  * All tutorial sections should come to GB120 (the lecture room).    
+  * Your TA's will introduce/demo their work/research, and run short Q&A sessions.
 
 -----
 
