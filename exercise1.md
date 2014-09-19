@@ -1,10 +1,11 @@
 # Exercise 1
 
-## Team registration is now closed
+We have released Exercise1.    
 
-If you failed to register, __email your instructor with your GitHub username as soon as possible__. If you email your instructor before we set up all the repositories, you might be able to avoid losing 25% of your mark for this exercise.
+Go to [our course organization page](https://github.com/csc301-fall2014), and you should see your team's repository (its name starts with _Ex1_) in the list.
 
-## What's next?
+The handout and starter code are in the team's repository.
 
- * We will release the exercise later tonight, and update this page with instructions.
- * We also decided to give you some more time to work on this exercise, and we moved the due date to Sunday, Sept 28.
+
+**Note:** If you did not register for a team, you will need to contact your Instructor/TA and get set up manually.
+Unfortunately, by not registering for a team on time, you lost 25% of the mark for this exercise.
