@@ -16,3 +16,21 @@
    * Bad notification centre.
    
    
+-----
+
+## Personas
+
+ * Rez Clare 
+   * 20 years old, from West Toronto.
+   * Sexual Diversity studies
+   * Lives in the residence building at New College.
+   * Usually wakes up late, works as a bartender twice a week on College St.
+   * When she's not working, she usually hangs out with friends, and play the Ukulele.
+   
+ * Joey
+   * 24 years old, from Korea.
+   * M.Ba student in Eco
+   * Lives in an apartment near campus with a roommate, cat and a fish.
+   * Enjoys Kareoke, online games, archery.
+   
+
