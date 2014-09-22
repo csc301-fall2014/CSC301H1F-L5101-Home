@@ -6,9 +6,9 @@ This page will contain general information and important announcements, please m
 
 -----
 
-# IMPORTANT ANNOUNCEMENTS
+# IMPORTANT ANNOUNCEMENTS, Mon Sept 22
 
-1. Don't forget to register for a team for exercise 1 by 5 p.m. today (Thursday). If you don't register for a team, you will lose 25% of the mark for this exercise.
+1. If you **do not have a personal repo**, please fill in your CDF username and GitHub username in [this shared doc](https://docs.google.com/spreadsheets/d/1ekgl2D7u6EuLoZlYKrsyw5cySIPg6EvqwKPyo-xmQ2I/edit#gid=0).
 2. __Tutorial, Monday, Sept 22__ 
   * All tutorial sections should come to GB120 (the lecture room).    
   * Your TA's will introduce/demo their work/research, and run short Q&A sessions.
