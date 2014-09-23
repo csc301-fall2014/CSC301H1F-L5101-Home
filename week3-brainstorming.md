@@ -1,22 +1,25 @@
+# Case Study - Designing an Online University Portal
+
+
 ## Initial Discussion
 
- * Do you have any technical background?
-   * No
- * Who is it for? Students, teachers?
-   * Not sure, for now, let's say both.
- * What is bad with the current system?
-   * Everything
-   * User exeprience is not great. (too many clicks to get where you're going)
-   * No mobile website (but there is an app)
-   * Hard to find what you're looking for.
-   * On-line assignment submission is buggy.
-   * No integration with external resources (e.g. websites not on the current system)
-   * Features that nobody uses (e.g. group voting)
-   * Slow loading
-   * Bad notification centre.
+ * Dev Team: Do you have any technical background?
+   * Client: No
+ * Dev Team: Who is it for? Students, teachers?
+   * Client: Not sure. We've been hearing that both students and teachers are unhappy with the current system.
+ * Dev Team: What is bad with the current system?
+   * Client: Here's some stuff we heard in our survey 
+     * Everything
+     * User exeprience is not great. (too many clicks to get where you're going)
+     * No mobile website (but there is an app)
+     * Hard to find what you're looking for.
+     * On-line assignment submission is buggy.
+     * No integration with external resources (e.g. websites not on the current system)
+     * Features that nobody uses (e.g. group voting)
+     * Slow loading
+     * Bad notification centre.
    
    
------
 
 ## Personas
 
@@ -40,8 +43,10 @@
 
 ## Desinging our MVP
 
+### Who?
 We will focus on *Dan the commuter*.
 
+### What?
 Come up with some user stories:
  * As Dan, I want to access all of the course info for courses I am registered in, so that I don't have to go to different websites.
  * As Dan, I want a calendar on the homepage, so I can view all of my deadlines, and manage my TODO items in one central place. 
@@ -53,14 +58,12 @@ Based on the stories we came up with, we'll decide on our MVP.
 
 ## MVP
 
-An online portal for University students, with convenient schedule and time management features.
-Think of Blackboard, where a calendar and a TODO list are the centre of attention.
+A calendar & time management tool, that automatically keeps track of a student's courses and deadlines.
 
 
 ### Release Plan
 
 Alpha testing with volunteer students in the lab (i.e Our first release is a prototype).
-
 
 Let's write some user stories (or features), and prioritize them:
  * I want to integrate my iCal/GoogleCalendar, so that I can see my personal meetings on top of school related items. (_med_)
