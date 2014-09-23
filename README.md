@@ -66,3 +66,4 @@ Final Exam     | TBD         | 35%
  * Week 3
    * [Notes and announcements](https://docs.google.com/presentation/d/1VLvYde75A_JAuzf_8E4hWW6_JwDOmF3gswANVTKrkx0/edit?usp=sharing)
    * [User-Centric Design](https://docs.google.com/presentation/d/17jIrffuu78dUq_fd4ukuH9L3xPvWo3TN2b28jYHhILA/edit?usp=sharing)
+   * [Brainstorming Session](week3-brainstorming.md)
