@@ -52,3 +52,33 @@ User stories:
 
 An online portal for University students, with convenient schedule and time management features.
 Think of Blackboard, where a calendar and a TODO list are the centre of attention.
+
+
+### Release Plan
+
+Alpha testing with volunteer students in the lab (i.e Our first release is a prototype).
+
+User Stories
+ * 2 As Dan, I want to integrate my iCal/GoogleCalendar, so that I can see my personal meetings on top of school related items.
+ * 3 Link to MarkUs
+ * 1 Add/remove/edit events in calendar.
+ * 2 Notifications and reminders
+ * 1 Courses and due dates loaded automatically
+ * 2 TODO List updates automatically to reflect changes in the calendar.
+  
+
+Only items with priority 1 will make it to our first release.
+
+
+## Architecture
+
+ * Web server to serve web pages.
+   * Which server?
+   * It's going to server web pages.
+   * It's also going to serve data (for AJAX calls)
+ * Front end (i.e. HTML + CSS + JavaScript)
+ * Persistent data storage
+
+ 
+
+
