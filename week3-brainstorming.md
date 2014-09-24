@@ -41,7 +41,7 @@
 
 
 
-## Desinging our MVP
+## Designing our MVP
 
 ### Who?
 We will focus on *Dan the commuter*.
