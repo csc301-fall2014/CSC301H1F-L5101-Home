@@ -4,13 +4,6 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
------
-
-# IMPORTANT ANNOUNCEMENTS, Mon Sept 22
-
-If you **do not have a personal repo**, please fill in your CDF username and GitHub username in [this shared doc](https://docs.google.com/spreadsheets/d/1ekgl2D7u6EuLoZlYKrsyw5cySIPg6EvqwKPyo-xmQ2I/edit#gid=0).
-
------
 
 ## General Info ##
 
