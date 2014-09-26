@@ -4,6 +4,10 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+# Important Announcement
+
+I created all missing personal repositories, please verify that you can see your repo at https://github.com/csc301-fall2014
+
 
 ## General Info ##
 
