@@ -6,7 +6,9 @@ This page will contain general information and important announcements, please m
 
 # Important Announcement
 
-I created all missing personal repositories, please verify that you can see your repo at https://github.com/csc301-fall2014
+1. __Monday, Sept 29, tutorial__.   
+   Please attend the tutorial section you are registered for. That is, either GB120 (Sukwon), AP120 (Jeff), or WB144 (Kaiwen).
+2. I created all missing personal repositories, please verify that you can see your repo at https://github.com/csc301-fall2014
 
 
 ## General Info ##
