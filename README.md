@@ -70,3 +70,4 @@ Final Exam     | TBD         | 35%
    * [Brainstorming Session](week3-brainstorming.md)
  * Week 4
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
+   * [Tutorial brainstorming session (Kaiwen)](week4-tutorial-kaiwen.md)
