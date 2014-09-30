@@ -53,3 +53,6 @@ Architecture
     * Customers could also enter data in computer in sequencing centre, when dropping off their samples
 * We need tons of storage for sequencing results (multi-GB text files), but not much computation
     * Can delete sequencing results ater they're downloaded -- but what if user doesn't download them for a month?
+ * Can we build this in three month?
+   * We have ~10 programmers working 40 hours/week
+   * Consensus: yes, definitely -- we'll follow an agile process
