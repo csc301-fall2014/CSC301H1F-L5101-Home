@@ -67,6 +67,8 @@ Final Exam     | TBD         | 35%
    * [Brainstorming Session](week3-brainstorming.md)
  * Week 4
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
-   * [Tutorial brainstorming session (Kaiwen)](week4-tutorial-kaiwen.md)
-   * [Tutorial brainstorming session (Sukwon)](week4-tutorial-sukwon.md)
-   * [Tutorial brainstorming session (Jeff)](week4-tutorial-jeff.md)
+   * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
+   * Tutorial notes:
+     * [Tutorial brainstorming session (Kaiwen)](week4-tutorial-kaiwen.md)
+     * [Tutorial brainstorming session (Sukwon)](week4-tutorial-sukwon.md)
+     * [Tutorial brainstorming session (Jeff)](week4-tutorial-jeff.md)
