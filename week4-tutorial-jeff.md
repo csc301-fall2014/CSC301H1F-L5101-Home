@@ -27,6 +27,7 @@ The plan
 * MVP will be our first release
     * Anything less than MVP is useless to the centre -- must support at least the researcher and the sequencing tech
     * *Any* software will be big improvement on current pen/paper system
+    * All high priority features will be implemented for MVP. Low/med come later
 
 Features for researcher
 ----
