@@ -7,7 +7,7 @@ The domain: software for DNA sequencing lab
 * Sequencing is expensive, but lots of biology labs need it
     * So, universities establish central sequencing centre
 * You pay sequencing centre from your lab budget
-    * You give them sample, they give you back the digital asequence
+    * You give them sample, they give you back the digital sequence
 
 The users
 ----
@@ -54,6 +54,6 @@ Architecture
     * Customers could also enter data in computer in sequencing centre, when dropping off their samples
 * We need tons of storage for sequencing results (multi-GB text files), but not much computation
     * Can delete sequencing results ater they're downloaded -- but what if user doesn't download them for a month?
- * Can we build this in three month?
+ * Can we build this in three months?
    * We have ~10 programmers working 40 hours/week
    * Consensus: yes, definitely -- we'll follow an agile process
