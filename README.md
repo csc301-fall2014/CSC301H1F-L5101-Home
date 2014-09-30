@@ -5,15 +5,12 @@ This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Mo
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
 # Important Announcement
-
-1. __Monday, Sept 29, tutorial__.   
-   Please attend the tutorial section you are registered for. That is, either GB120 (Sukwon), AP120 (Jeff), or WB144 (Kaiwen).
-2. We will publish the handout for your project on Wednesday evening.    
-   Please register for a team by __Wednesday, Oct 1, at 9 pm__, by adding your __GitHub username__ to [this doc](https://docs.google.com/spreadsheets/d/17pZEmkDKshsDHVQoYVQJ1OjFYvyEHyYSyICqqUDRMxg/edit?usp=sharing).    
-   Please notice that this is a __strict deadline__, with a zero tolerance policy.
-    * If you don't register by the deadline, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
-    * If you register with anything other than your GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
-    * If you register with the wrong GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
+We will publish the handout for your project on Wednesday evening.    
+Please register for a team by __Wednesday, Oct 1, at 9 pm__, by adding your __GitHub username__ to [this doc](https://docs.google.com/spreadsheets/d/17pZEmkDKshsDHVQoYVQJ1OjFYvyEHyYSyICqqUDRMxg/edit?usp=sharing).    
+Please notice that this is a __strict deadline__, with a zero tolerance policy.
+ * If you don't register by the deadline, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
+ * If you register with anything other than your GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
+ * If you register with the wrong GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
 
 
 ## General Info ##
@@ -71,3 +68,4 @@ Final Exam     | TBD         | 35%
  * Week 4
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
    * [Tutorial brainstorming session (Kaiwen)](week4-tutorial-kaiwen.md)
+   * [Tutorial brainstorming session (Sukwon)](week4-tutorial-sukwon.md)
