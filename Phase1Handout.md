@@ -1,6 +1,6 @@
 # Project, Phase 1 - Planning
 
-For the first stage of the project, you will be using the various planning techniques we've learned in order to get ready for building your product. There are two main goals to this phase:
+For the first phase of the project, you will be using the various planning techniques we've learned in order to get ready for building your product. There are two main goals to this phase:
  * Understanding what product you want to build, and planning your first few steps.
  * Developing an efficient way of working together as a team (i.e. developing a process).
 
