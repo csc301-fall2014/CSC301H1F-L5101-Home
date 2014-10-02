@@ -5,12 +5,9 @@ This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Mo
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
 # Important Announcement
-We will publish the handout for your project on Wednesday evening.    
-Please register for a team by __Wednesday, Oct 1, at 9 pm__, by adding your __GitHub username__ to [this doc](https://docs.google.com/spreadsheets/d/17pZEmkDKshsDHVQoYVQJ1OjFYvyEHyYSyICqqUDRMxg/edit?usp=sharing).    
-Please notice that this is a __strict deadline__, with a zero tolerance policy.
- * If you don't register by the deadline, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
- * If you register with anything other than your GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
- * If you register with the wrong GitHub username, you will not be able to participate in phase 1 of the project (and receive a mark of 0 for this phase).
+
+The [handout for phase1 of the project](Phase1Handout.md) is available.    
+I will create your team repositories in the next hour.
 
 
 ## General Info ##
@@ -38,7 +35,7 @@ What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/st-george-evening-section)  | Mon, 15 Sep | 1%
 [Exercise](https://github.com/csc301-fall2014/CSC301H1F-L5101-Home/blob/master/exercise1.md)       | ~~Wed, 24 Sep~~ Sun, 28 Sep, 10 p.m. | 9%
-Project Phase1 | Wed, 8 Oct  | 8% 
+[Project Phase1](Phase1Handout.md) | ~~Wed, 8 Oct~~ __Fri, 10 Oct__  | 8% 
 Midterm        | Mon, 27 Oct | 10%
 Project Phase2 | Wed, 29 Oct | 12%
 Project Phase3 | Wed, 12 Nov | 10% 
