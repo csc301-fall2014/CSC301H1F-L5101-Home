@@ -6,8 +6,7 @@ This page will contain general information and important announcements, please m
 
 # Important Announcement
 
-The [handout for phase1 of the project](Phase1Handout.md) is available.    
-I will create your team repositories in the next hour.
+The [handout for phase1 of the project](Phase1Handout.md) is available, and your team repositories have been created.
 
 
 ## General Info ##
