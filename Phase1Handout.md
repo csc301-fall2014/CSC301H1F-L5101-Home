@@ -67,9 +67,9 @@ Your individual deliverable should be submitted in a file called `phase1-peer-ev
  * Evaluate each one of your teammates, __and explain__ your evaluation in 1-3 sentences.
  * Use the following evaluation scheme:
    * 0 - Absent, non-communicating and/or destructive.
-   * 1 - Below average contribution.
+   * 1 - Significantly below average contribution.
    * 2 - Average contribution.
-   * 3 - Above average contribution.
+   * 3 - Significantly above average contribution.
  * The total number of points you are allowed to give is __at most 2(team-size - 1)__.
  * That is, you have enough points to evaluate all of your teammates as average. If you evaluate someone above average, then you must evaluate someone else below average.
  * Please follow this format:
