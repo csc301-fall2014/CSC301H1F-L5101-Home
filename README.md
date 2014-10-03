@@ -61,10 +61,11 @@ Final Exam     | TBD         | 35%
    * [Notes and announcements](https://docs.google.com/presentation/d/1VLvYde75A_JAuzf_8E4hWW6_JwDOmF3gswANVTKrkx0/edit?usp=sharing)
    * [User-Centric Design](https://docs.google.com/presentation/d/17jIrffuu78dUq_fd4ukuH9L3xPvWo3TN2b28jYHhILA/edit?usp=sharing)
    * [Brainstorming Session](week3-brainstorming.md)
- * Week 4
-   * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
-   * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
    * Tutorial notes:
      * [Tutorial brainstorming session (Kaiwen)](week4-tutorial-kaiwen.md)
      * [Tutorial brainstorming session (Sukwon)](week4-tutorial-sukwon.md)
      * [Tutorial brainstorming session (Jeff)](week4-tutorial-jeff.md)
+ * Week 4
+   * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
+   * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
+   
