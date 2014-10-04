@@ -89,9 +89,9 @@ Your team’s deliverables will be graded on:
  * Presentation - Writing clarity, proper grammar, organization, etc.
 
 Here are some suggestions to help you get a high grade for this phase:
- * Go through your teammate’s work, and provide feedback to one another.
+ * Go through your teammates' work and provide feedback to one another.
  * When you review your own work, take some time between writing and reviewing.
- * Try to communicate the same amount of information in less words.
+ * Try to communicate the same amount of information in fewer words.
  * Focus on content, not power words.
 
 Each student’s final mark is determined by their team’s mark, and their teammates’ peer evaluation. Your final mark will be computed as follows:
