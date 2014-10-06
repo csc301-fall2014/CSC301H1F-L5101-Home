@@ -69,3 +69,5 @@ Final Exam     | TBD         | 35%
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
    * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
    
+ * Week 5
+   * [Lecture Notes](https://docs.google.com/presentation/d/11J0p13S2bLqTu4u-c8a0HCebPjUEaby493eoRCz74f4/edit?usp=sharing)
