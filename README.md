@@ -70,4 +70,5 @@ Final Exam     | TBD         | 35%
    * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
    
  * Week 5
+   * [Tutorial Notes](tutorial-week5/handout.md) 
    * [Lecture Notes](https://docs.google.com/presentation/d/11J0p13S2bLqTu4u-c8a0HCebPjUEaby493eoRCz74f4/edit?usp=sharing)
