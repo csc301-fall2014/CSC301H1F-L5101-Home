@@ -6,7 +6,9 @@ This page will contain general information and important announcements, please m
 
 # Important Announcement
 
-There are __no lectures or tutorials on Monday, Oct 13__, due to Thanksgiving Day.
+ * There are __no lectures or tutorials on Monday, Oct 13__, due to Thanksgiving Day.
+ * The [handout for phase 2 of the project](Phase2Handout.md) is available.
+ * You can expect to get the marks for phase 1 by the end of next week.
 
 
 ## General Info ##
@@ -36,7 +38,7 @@ What | When | How Much
 [Exercise](https://github.com/csc301-fall2014/CSC301H1F-L5101-Home/blob/master/exercise1.md)       | ~~Wed, 24 Sep~~ Sun, 28 Sep, 10 p.m. | 9%
 [Project Phase1](Phase1Handout.md) | ~~Wed, 8 Oct~~ __Fri, 10 Oct, 10 pm__  | 8% 
 Midterm        | Mon, 27 Oct | 10%
-Project Phase2 | Wed, 29 Oct | 12%
+[Project Phase2](Phase2Handout.md) | Wed, 29 Oct, __10 pm__| 12%
 Project Phase3 | Wed, 12 Nov | 10% 
 Project Phase4 | Wed, 26 Nov | 15% 
 Final Exam     | TBD         | 35%
