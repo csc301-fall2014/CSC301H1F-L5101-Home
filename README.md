@@ -4,15 +4,6 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-# Important Announcement
-
-On __Monday, Oct 20__, please attend the __tutorial__ of __your team's TA__.
-
- * Teams 1 to 4 - Kaiwen, WB144.
- * Teams 5 to 8 - Sukwon, GB120.
- * Teams 9 to 12 - Jeff, AP120.
-
-The plan for this tutorial is to have an open discussion, ask questions about the project, and sort out any logistics issues (e.g. When/where your TA is available to meet with you).
 
 
 ## General Info ##
