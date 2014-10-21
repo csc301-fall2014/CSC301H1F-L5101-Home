@@ -70,6 +70,7 @@ Final Exam     | TBD         | 35%
    * [Tutorial Notes](tutorial-week5/handout.md) 
    * [Lecture Notes](https://docs.google.com/presentation/d/11J0p13S2bLqTu4u-c8a0HCebPjUEaby493eoRCz74f4/edit?usp=sharing)
    * [CRC to code, example](https://github.com/csc301-fall2014/CRC2CodeExample)
- * Week 6
+* Week 6 - No lecture, Thanksgiving Day. 
+* Week 7
    * [Lecture Notes](https://docs.google.com/presentation/d/1nJyK6CPDuBWMifnztRcNWN_mzL2_QJUhR6nTxrTENk0/edit?usp=sharing)
    * [Builder Design Pattern, Example](https://github.com/csc301-fall2014/BuilderExample)
