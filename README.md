@@ -4,6 +4,10 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+# Important Announcements
+
+__IMPORTANT:__ The marking scheme for phase 2 has been updated.
+For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
 
 
 ## General Info ##
