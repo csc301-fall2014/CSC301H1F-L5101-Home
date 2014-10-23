@@ -1,5 +1,13 @@
 # Phase 2 - Implementation
 
+----
+
+## IMPORTANT UPDATE
+
+The [marking scheme ](#marking-scheme) has been updated.
+
+----
+
 The main goal of this phase is to implement and present the first working version of your product. 
 
 It is up to you to choose what to implement, and how much work to put into this phase.
