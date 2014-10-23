@@ -66,7 +66,7 @@ You will follow a [scrum-like process](#our-scrum-like-process), and will be ask
 The following files shoulds be submitted to the root of your __personal repo__.
 
  * [`proj-phase2-individual-contrib.md`](#proj-phase2-individual-contribmd)
- * [`proj-phase2-code-review.md`](#proj-phase2-code-reviewmd)
+ * __UPDATE__ ~~[`proj-phase2-code-review.md`](#proj-phase2-code-reviewmd)~~
  * [`proj-phase2-short-answers.md`](#proj-phase2-short-answersmd)
 
 
@@ -79,18 +79,8 @@ The following files shoulds be submitted to the root of your __personal repo__.
 
 #### `proj-phase2-code-review.md`
 
-We want you to review one of your teammate's code, and provide feedback.    
-This file should be a summary of your code review.
-
- * It’s the team’s responsibility to make sure that everybody’s code gets reviewed by someone.
- * If you can offer improvements to your teammate’s code (in terms of correctness and/or code quality), that would be great.
-   * You can fork the team repo.
-   * Commit your changes to the fork.
-   * Send a pull-request with written feedback on your teammate's code.
-   * In `proj-phase2-code-review.md`, you can include a link to the pull request on GitHub.
- * If you cannot improve your teammate's code, you should still be able to:
-   * Provide them with positive feedback.
-   * Describe parts of the code that were well done, and perhaps even taught you some coding techniques/ideas/tricks.
+You __do not need to submit this deliverable__ for this phase.     
+You will do code reviews during phase 3.
 
 #### `proj-phase2-short-answers.md`
 
@@ -113,8 +103,8 @@ This file should be a summary of your code review.
      * Code quality. 6%
      
  * Individual   25%
-   * `proj-phase2-individual-contrib.md` 10%
-   * `proj-phase2-code-review.md` 10%
+   * `proj-phase2-individual-contrib.md` __20%__
+   * __UPDATE__ ~~`proj-phase2-code-review.md` 10%~~
    * `proj-phase2-short-answers.md` 5%
 
 
