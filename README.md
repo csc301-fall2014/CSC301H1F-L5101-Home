@@ -78,3 +78,4 @@ Final Exam     | TBD         | 35%
  * Week 7
    * [Lecture Notes](https://docs.google.com/presentation/d/1nJyK6CPDuBWMifnztRcNWN_mzL2_QJUhR6nTxrTENk0/edit?usp=sharing)
    * [Builder Design Pattern, Example](https://github.com/csc301-fall2014/BuilderExample)
+     * [Good explanation of Builder design pattern](http://stackoverflow.com/a/1953567)
