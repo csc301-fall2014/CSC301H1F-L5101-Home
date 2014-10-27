@@ -6,6 +6,9 @@ This page will contain general information and important announcements, please m
 
 # Important Announcements
 
+__URGENT:__ I extremely apologize for the late notice, there will be only one tutorial section today at __GB120__ (the lecture room).     
+Sukwon will be answering last minute questions before the midterm. If you do not have questions about the midterm, there is no need to show up.
+
 __IMPORTANT:__ The marking scheme for phase 2 has been updated.
 For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
 
