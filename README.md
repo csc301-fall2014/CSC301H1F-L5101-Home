@@ -6,9 +6,9 @@ This page will contain general information and important announcements, please m
 
 # Important Announcements
 
-[Phase3 handout](Phase3Handout.md) is out.
-
-__IMPORTANT:__ The marking scheme for phase 2 has been updated.
+ * [Phase3 handout](Phase3Handout.md) is out.
+ * There is __no lecture/tutorial on November 3__, due to November Break.
+ * The marking scheme for phase 2 has been updated.
 For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
 
 
@@ -85,3 +85,4 @@ Final Exam     | TBD         | 35%
    * Midterm + Guest talk by [Xavier Snelgrove](mailto:xavier@whirlscape.com) from Whirlscape
    * [Minuum Crowd Funding Video](https://www.indiegogo.com/projects/the-minuum-keyboard-project) - This is a great example of how to present a MVP.
    * [Whirlscape's homepage](http://minuum.com/)
+ * Week 9 - No lecture, November Break. 
