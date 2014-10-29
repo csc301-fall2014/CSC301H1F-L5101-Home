@@ -6,8 +6,7 @@ This page will contain general information and important announcements, please m
 
 # Important Announcements
 
-__URGENT:__ I extremely apologize for the late notice, there will be only one tutorial section today at __GB120__ (the lecture room).     
-Sukwon will be answering last minute questions before the midterm. If you do not have questions about the midterm, there is no need to show up.
+[Phase3 handout](Phase3Handout.md) is out.
 
 __IMPORTANT:__ The marking scheme for phase 2 has been updated.
 For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
@@ -41,7 +40,7 @@ What | When | How Much
 [Project Phase1](Phase1Handout.md) | ~~Wed, 8 Oct~~ __Fri, 10 Oct, 10 pm__  | 8% 
 Midterm        | Mon, 27 Oct | 10%
 [Project Phase2](Phase2Handout.md) | Wed, 29 Oct, __10 pm__| 12%
-Project Phase3 | Wed, 12 Nov | 10% 
+[Project Phase3](Phase3Handout.md) | Wed, 12 Nov, __10 pm__ | 10% 
 Project Phase4 | Wed, 26 Nov | 15% 
 Final Exam     | TBD         | 35%
 
