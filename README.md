@@ -7,7 +7,9 @@ This page will contain general information and important announcements, please m
 # Important Announcements
 
  * [Phase3 handout](Phase3Handout.md) is out.
- * There is __no lecture/tutorial on November 3__, due to November Break.
+ * ~~There is __no lecture/tutorial on November 3__, due to November Break.~~     
+   __IMPORTANT:__ There is a lecture on Nov 3rd, November break is on Nov 17.     
+   Sorry about the confusion.
  * The marking scheme for phase 2 has been updated.
 For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
 
