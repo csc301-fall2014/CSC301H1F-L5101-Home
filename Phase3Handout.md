@@ -22,7 +22,7 @@ and compare it with the Scrum-like process you used in phase 2.
 
 #### Live Demo
 
- * To be presented __During tutorial, on Nov 17__.
+ * To be presented __During tutorial, on Nov ~~17~~ 24__.
  * Short - Max' 10 minutes (including time for Q&A).
  * Presented by 2 team members
    * One doing most of the talking ("the navigator"), and the other runs things on the computer ("the driver").
