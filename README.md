@@ -87,4 +87,4 @@ Final Exam     | TBD         | 35%
    * Midterm + Guest talk by [Xavier Snelgrove](mailto:xavier@whirlscape.com) from Whirlscape
    * [Minuum Crowd Funding Video](https://www.indiegogo.com/projects/the-minuum-keyboard-project) - This is a great example of how to present a MVP.
    * [Whirlscape's homepage](http://minuum.com/)
- * Week 9 - No lecture, November Break. 
+ 
