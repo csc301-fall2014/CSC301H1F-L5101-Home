@@ -85,4 +85,7 @@ Final Exam     | TBD         | 35%
    * Midterm + Guest talk by [Xavier Snelgrove](mailto:xavier@whirlscape.com) from Whirlscape
    * [Minuum Crowd Funding Video](https://www.indiegogo.com/projects/the-minuum-keyboard-project) - This is a great example of how to present a MVP.
    * [Whirlscape's homepage](http://minuum.com/)
- 
+ * Week 9
+   * [Lecture Notes](https://docs.google.com/presentation/d/1d7qG3fuoUO9C38lTGSvs326AoG1Lww1AvTGART00fwc/edit?usp=sharing)
+   * Going over the [midterm test](CSC301_Midterm_evening.pdf).
+   * [Additional notes on SOLID](Week7-SOLID.pdf) 
