@@ -89,3 +89,7 @@ Final Exam     | TBD         | 35%
    * [Lecture Notes](https://docs.google.com/presentation/d/1d7qG3fuoUO9C38lTGSvs326AoG1Lww1AvTGART00fwc/edit?usp=sharing)
    * Going over the [midterm test](CSC301_Midterm_evening.pdf).
    * [Additional notes on SOLID](Week7-SOLID.pdf) 
+ * Week 10
+   * [Lecture Notes](https://docs.google.com/presentation/d/1YSuixvtxc8csZCSFyUFwYlRHxw31DVi0t6coS4zrjB4/edit?usp=sharing)
+   * [Observer & Adapter Example](https://github.com/csc301-fall2014/ObserverAndAdapterExample)
+   * [MVC Example](https://github.com/csc301-fall2014/MVCExample) 
