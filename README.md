@@ -4,13 +4,6 @@
 This repo serves as the homepage for CSC301H1F, section **L5101** (i.e. The **Monday evening** section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-# Important Announcements
-
- * [Phase3 handout](Phase3Handout.md) is out.
- * ~~There is __no lecture/tutorial on November 3__, due to November Break.~~     
-   __IMPORTANT: There is a lecture on Nov 3rd__ (November Break is on Nov 17).     
-   Sorry about the confusion.
-
 
 ## General Info ##
 
