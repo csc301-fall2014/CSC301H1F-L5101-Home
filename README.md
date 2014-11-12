@@ -34,7 +34,7 @@ What | When | How Much
 Midterm        | Mon, 27 Oct | 10%
 [Project Phase2](Phase2Handout.md) | Wed, 29 Oct, __10 pm__| 12%
 [Project Phase3](Phase3Handout.md) | Wed, 12 Nov, __10 pm__ | 10% 
-Project Phase4 | Wed, 26 Nov | 15% 
+[Project Phase4](Phase4Handout.md) | Wed, 26 Nov, __10 pm__ | 15% 
 Final Exam     | TBD         | 35%
 
 *Note:* You must get at least 40% on the final exam in order to pass the course.
