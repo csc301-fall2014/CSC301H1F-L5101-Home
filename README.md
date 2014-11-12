@@ -29,11 +29,11 @@ This page will contain general information and important announcements, please m
 What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/st-george-evening-section)  | Mon, 15 Sep | 1%
-[Exercise](https://github.com/csc301-fall2014/CSC301H1F-L5101-Home/blob/master/exercise1.md)       | ~~Wed, 24 Sep~~ Sun, 28 Sep, 10 p.m. | 9%
-[Project Phase1](Phase1Handout.md) | ~~Wed, 8 Oct~~ __Fri, 10 Oct, 10 pm__  | 8% 
+[Exercise](https://github.com/csc301-fall2014/CSC301H1F-L5101-Home/blob/master/exercise1.md)       | Sun, 28 Sep, 10 p.m. | 9%
+[Project Phase1](Phase1Handout.md) | Fri, 10 Oct, 10 pm  | 8% 
 Midterm        | Mon, 27 Oct | 10%
-[Project Phase2](Phase2Handout.md) | Wed, 29 Oct, __10 pm__| 12%
-[Project Phase3](Phase3Handout.md) | Wed, 12 Nov, __10 pm__ | 10% 
+[Project Phase2](Phase2Handout.md) | Wed, 29 Oct, 10 pm | 12%
+[Project Phase3](Phase3Handout.md) | Wed, 12 Nov, 10 pm | 10% 
 [Project Phase4](Phase4Handout.md) | Wed, 26 Nov, __10 pm__ | 15% 
 Final Exam     | TBD         | 35%
 
