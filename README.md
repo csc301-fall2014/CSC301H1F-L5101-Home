@@ -86,3 +86,7 @@ Final Exam     | TBD         | 35%
    * [Lecture Notes](https://docs.google.com/presentation/d/1YSuixvtxc8csZCSFyUFwYlRHxw31DVi0t6coS4zrjB4/edit?usp=sharing)
    * [Observer & Adapter Example](https://github.com/csc301-fall2014/ObserverAndAdapterExample)
    * [MVC Example](https://github.com/csc301-fall2014/MVCExample) 
+ * Week 11
+   * [Announcements](week11.md)
+   * [Logging Library Example](https://github.com/csc301-fall2014/LoggingExample)
+   * Guest talk by Nahim Nasser & Mark Reale from [BNotion](http://bnotions.com).
