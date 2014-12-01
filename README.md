@@ -92,4 +92,4 @@ Final Exam     | TBD         | 35%
    * Guest talk by Nahim Nasser & Mark Reale from [BNotion](http://bnotions.com).
  * Week 12 - Monday
    * Project presentations
-   * [Lecture notes (related to Logging Library example)](https://docs.google.com/presentation/d/1abCtLfYyBh5BfTv81KgQQrT1eLYFNiFGkAN-79vxWoM/edit?usp=sharing)
+   * [Lecture notes ](https://docs.google.com/presentation/d/1abCtLfYyBh5BfTv81KgQQrT1eLYFNiFGkAN-79vxWoM/edit?usp=sharing) (related to the logging library example)
