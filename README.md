@@ -90,3 +90,6 @@ Final Exam     | TBD         | 35%
    * [Announcements](week11.md)
    * [Logging Library Example](https://github.com/csc301-fall2014/LoggingExample)
    * Guest talk by Nahim Nasser & Mark Reale from [BNotion](http://bnotions.com).
+ * Week 12 - Monday
+   * Project presentations
+   * [Lecture notes (related to Logging Library example)](https://docs.google.com/presentation/d/1abCtLfYyBh5BfTv81KgQQrT1eLYFNiFGkAN-79vxWoM/edit?usp=sharing)
