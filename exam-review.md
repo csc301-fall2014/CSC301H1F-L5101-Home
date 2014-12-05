@@ -25,7 +25,8 @@ They all help our team become "more agile". That is, they help our team _be effi
 ## Format
 
  * Short-answer questions
- * Coding questions
+ * Unit testing (no code required)
+ * Coding questions (Study Deisgn Patterns)
    * You will be asked to write Java code.
    * We are __not__ testing you on the syntax of Java
      * If you abbreviate `System.out.println` with `print`, that's fine.
